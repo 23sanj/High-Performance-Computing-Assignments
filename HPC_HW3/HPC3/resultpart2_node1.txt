@@ -1,0 +1,4 @@
+ 455052511 primes are less than or equal to  10000000000 
+Total elapsed time:  18.367604
+ 1373517317 primes are less than or equal to  10000000000 
+Total elapsed time:  19.414597

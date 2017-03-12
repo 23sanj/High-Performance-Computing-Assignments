@@ -1,0 +1,14 @@
+
+#!/bin/sh
+#PBS -l nodes=2:ppn=32,walltime=1:00:00
+#PBS -N HW3
+
+#PBS -m abe
+
+module purge
+module load mvapich2-1.9a2/gnu-4.6.2
+module load gcc-4.6.2
+
+cd $PBS_O_WORKDIR
+
+mpirun ./part1 10000000000 >> resultpart1_node2.txt

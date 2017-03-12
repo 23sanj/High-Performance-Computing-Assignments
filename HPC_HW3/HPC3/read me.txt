@@ -1,0 +1,7 @@
+test_part1: final for assignment1
+test_part2: needs corrections in terms for time for execution
+test_part3: produces correct but unoptimised results
+test_simple1.c: same as the one discussed in class
+new3: sinhuans code
+bas_part3: bashars code
+final_part3: my code, complicated same as sinhuans
